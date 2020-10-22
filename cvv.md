@@ -5,4 +5,3 @@
 ## **my purpose** to be good programmer
 ## **language** English elementary level
 ## **interested** movie,music,books
-
